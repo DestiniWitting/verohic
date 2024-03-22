@@ -1,0 +1,31 @@
+{
+  "name": "verohic",
+  "version": "1.0.0",
+  "description": "A general-purpose dependency injection container.",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DestiniWitting/verohic.git"
+  },
+  "keywords": [
+    "typescript",
+    "fuga"
+  ],
+  "author": "JaymeShields",
+  "license": "MIT",
+  "homepage": "https://github.com/DestiniWitting/verohic.git",
+  "devDependencies": {
+    "@types/chai": "^4.2.0",
+    "@types/mocha": "^5.2.7",
+    "@types/node": "^12.7.3",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "nyc": "^14.1.1",
+    "prettier": "^1.18.2",
+    "source-map-support": "^0.5.13",
+    "ts-node": "^8.3.0",
+    "tslint": "^5.19.0",
+    "typescript": "^3.6.2"
+  }
+}
